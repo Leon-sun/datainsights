@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Machine Learning Engineer Nanodegree
+# Model Evaluation and Validation
+## Project: Predicting Boston Housing Prices
 
-You can use the [editor on GitHub](https://github.com/Leon-sun/datainsights/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Install
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project requires **Python** and the following Python libraries installed:
 
-### Markdown
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-```markdown
-Syntax highlighted code block
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
 
-# Header 1
-## Header 2
-### Header 3
+### Code
 
-- Bulleted
-- List
+Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
-1. Numbered
-2. List
+### Run
 
-**Bold** and _Italic_ and `Code` text
+In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
 
-[Link](url) and ![Image](src)
+```bash
+ipython notebook boston_housing.ipynb
+```  
+or
+```bash
+jupyter notebook boston_housing.ipynb
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This will open the Jupyter Notebook software and project file in your browser.
 
-### Jekyll Themes
+### Data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Leon-sun/datainsights/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
 
-### Support or Contact
+**Features**
+1.  `RM`: average number of rooms per dwelling
+2. `LSTAT`: percentage of population considered lower status
+3. `PTRATIO`: pupil-teacher ratio by town
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Target Variable**
+4. `MEDV`: median value of owner-occupied homes
