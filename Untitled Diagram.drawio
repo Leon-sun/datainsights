@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T06:20:43.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="zvO54DjBMgbbUFcoZBnc" type="github"><diagram id="WMBj32RMHdaSdsHkja7M">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-18T05:54:39.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Kq6IvKDuyIJ8jp2zrP9a" version="20.0.3" type="github" pages="2">
+  <diagram id="WMBj32RMHdaSdsHkja7M" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tHab4WO7LdrEQjbCcM_i-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-1" value="设备行为" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="269.25" y="70" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tHab4WO7LdrEQjbCcM_i-4" target="tHab4WO7LdrEQjbCcM_i-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-11" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tHab4WO7LdrEQjbCcM_i-6">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tHab4WO7LdrEQjbCcM_i-4" target="tHab4WO7LdrEQjbCcM_i-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-12" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tHab4WO7LdrEQjbCcM_i-8">
+          <mxGeometry x="-0.2167" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-4" value="是否只归因到一条广告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="180" width="151.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-5" value="BI广告/业务测广告都为该广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tHab4WO7LdrEQjbCcM_i-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tHab4WO7LdrEQjbCcM_i-10">
+          <mxGeometry x="0.0653" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tHab4WO7LdrEQjbCcM_i-7" target="tHab4WO7LdrEQjbCcM_i-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354.29999999999995" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tHab4WO7LdrEQjbCcM_i-14">
+          <mxGeometry x="-0.2996" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-7" value="该策略广告是否为业务认可广告" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="320" width="151.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-17" value="该策略广告为业务测广告&lt;br&gt;末位归因广告为BI广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="330" width="166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHab4WO7LdrEQjbCcM_i-18" value="该策略广告记为非报表广告&lt;br&gt;末位归因广告为BI广告、业务测广告" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="254.75" y="470" width="199" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o1PovYW185APd0uV8gmd" name="Page-2">
+    <mxGraphModel dx="1426" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hnxd_ekrLzQOPiDikY_-7" target="-hnxd_ekrLzQOPiDikY_-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-7" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hnxd_ekrLzQOPiDikY_-1" target="-hnxd_ekrLzQOPiDikY_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-1" value="轮胎素材账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="507" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hnxd_ekrLzQOPiDikY_-2" target="-hnxd_ekrLzQOPiDikY_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-2" value="保养素材账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="567" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-3" value="RTA策略ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="507" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-5" value="RTA策略ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="567" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hnxd_ekrLzQOPiDikY_-8" target="-hnxd_ekrLzQOPiDikY_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-8" value="用户广告曝光请求" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="260" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.471;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-hnxd_ekrLzQOPiDikY_-9" target="-hnxd_ekrLzQOPiDikY_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-9" value="&amp;nbsp;设备 mapping 用户需求" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-hnxd_ekrLzQOPiDikY_-12" target="-hnxd_ekrLzQOPiDikY_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-12" value="洗美素材账户" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="625" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-13" value="RTA策略ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="625" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-hnxd_ekrLzQOPiDikY_-17" value="返回mapping到用户需求的RTA策略ID" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="550" width="310" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
